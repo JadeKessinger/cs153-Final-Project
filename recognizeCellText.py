@@ -130,8 +130,8 @@ def read_text(image):
     else:
         return result[0][1]
 
-
-if not os.path.isdir(basepath + "/" + text_csv_dir):
+if __name__=="__main__":
+    if not os.path.isdir(basepath + "/" + text_csv_dir):
         os.mkdir(basepath + "/" + text_csv_dir)
 
-detect_text_in_all_tables()
+    detect_text_in_all_tables()
