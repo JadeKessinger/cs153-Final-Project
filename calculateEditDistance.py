@@ -18,9 +18,25 @@ def load_df_from_csv(file_path, cols):
 def distance_from_list(text):
     return distance(text[0], text[1])
 
+def accuracy_from_edit_distance(stats):
+    edit_distance = stats[0]
+    text_length = stats[1]
+    if text_length == 0:
+        return edit_distance
+    return 1 - edit_distance / text_length
+
 def calculate_edit_distance(df):
     df.fillna("", inplace=True)
+    df = df.astype(str)
     df['edit_distance'] = df[["text", "detected_text"]].apply(distance_from_list, axis = 1)
+    return df
+
+def calculate_text_length(df):
+    df['text_length'] = df["text"].str.len()
+    return df
+
+def calculate_accuracy(df):
+    df['accuracy'] = df[["edit_distance", "text_length"]].apply(accuracy_from_edit_distance, axis=1)
     return df
 
 if __name__=="__main__":
@@ -31,4 +47,6 @@ if __name__=="__main__":
     for file_path in csv_file_paths:
         df = load_df_from_csv(basepath + "/" + text_csv_dir + "/" + file_path, ["position", "text", "detected_text"])
         df = calculate_edit_distance(df)
+        df = calculate_text_length(df)
+        df = calculate_accuracy(df)
         df.to_csv(basepath + "/" + text_csvs_with_edit_distance + "/" + file_path, encoding='utf-8', index=False)
