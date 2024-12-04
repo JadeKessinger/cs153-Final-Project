@@ -22,7 +22,7 @@ def accuracy_from_edit_distance(stats):
     edit_distance = stats[0]
     text_length = stats[1]
     if text_length == 0:
-        return edit_distance
+        return 1 - edit_distance
     return 1 - edit_distance / text_length
 
 def calculate_edit_distance(df):
