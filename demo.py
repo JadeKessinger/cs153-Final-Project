@@ -8,7 +8,7 @@ from zssTEDS import evaluate
 item_name = '6kpiuhyg'
 
 base_path = '20647788/'
-img_path = f'{base_path}image/english_all-line/{item_name}.jpg'
+img_path = f'{base_path}/TabRecSet/image/english_all-line/{item_name}.jpg'
 json_annotation_path = f'{base_path}/TabRecSet/TSR_TCR_annotation/{item_name}.json'
 json_sample_path = f'{base_path}english/{item_name}.json'
 mask_path = f'masked_cells/{item_name}'
