@@ -35,7 +35,6 @@ CS153-FINAL-PROJECT
 │   │   └── (png masks)
 │   └── ...
 ├── testerract.py
-├── testingnb.ipynb
-├── zssTEDS.py
+└── zssTEDS.py
 
 

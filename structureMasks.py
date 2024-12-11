@@ -52,7 +52,6 @@ def process_masks(folder_path):
     for i in range(len(coords)):
         for r in range(coords[i][0],coords[i][0]+coords[i][2]):
             for c in range(coords[i][1],coords[i][1]+coords[i][3]):
-                #print(r,c,coords[i])
                 table.iat[r, c] = coords[i][4]
 
     return table
