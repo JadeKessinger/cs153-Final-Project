@@ -10,3 +10,32 @@ To-Dos:
  - Implement Tree Edit Distance Similarity metric
  - Get the TSR annotations from a TSR model (currently, we are using the annotations from the dataset)
  - Generate plots for our analysis
+
+``` 
+CS153-FINAL-PROJECT
+├── 20647788
+│   ├── README.md
+│   ├── TabRecSet
+│   │   ├── TSR_TCR_annotation
+│   │   │   ├── 6kpiuhyg.json
+│   │   │   └── (all table .json annotations)
+│   │   └── image
+│   │       ├── english_all-line
+│   │       │   ├── 6kpiuhyg.jpg
+│   │       │   └── (all table .jpg images)
+│   │       └── ...
+│   └── english
+│       ├── 6kpiuhyg.json
+│       └── (all table .json results)
+├── README.md
+├── getTextFromJsons.py
+├── makeTable.py
+├── masked_cells
+│   ├── 6kpiuhyg
+│   │   └── (png masks)
+│   └── ...
+├── testerract.py
+├── testingnb.ipynb
+├── zssTEDS.py
+
+
