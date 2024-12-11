@@ -45,16 +45,18 @@ table2 = pd.read_csv('table2.csv')
 # TEDS = 0.9614617504178482
 
 # Demo with example files (Very bad)
-item_name = '6kpiuhyg'
-base_path = '20647788/TabRecSet/'
-img_path = f'{base_path}image/english_all-line/{item_name}.jpg'
-json_path = f'{base_path}TSR_TCR_annotation/{item_name}.json'
-bad_json_path = f'{item_name}.json'
+# item_name = '6kpiuhyg'
+# base_path = '20647788/TabRecSet/'
+# img_path = f'{base_path}image/english_all-line/{item_name}.jpg'
+# json_path = f'{base_path}TSR_TCR_annotation/{item_name}.json'
+# bad_json_path = f'{item_name}.json'
+
+
 # Load tables from JSON files
 # table1 = process_shapes(json_path)
 # table2 = process_shapes(bad_json_path)    # TEDS = 0.17150503463834565
-table2 = process_shapes(bad_json_path)      # TEDS = 0.1671576121964703
-table2 = process_shapes(json_path)          # TEDS = 0.846808357130618
+# table2 = process_shapes(bad_json_path)      # TEDS = 0.1671576121964703
+# table2 = process_shapes(json_path)          # TEDS = 0.846808357130618
 # The difference between the csv variation and json version are not identical as expected
 # For some reason converting to csv makes it more accurate in this case
 # It is unknown if csv is better for all cases
