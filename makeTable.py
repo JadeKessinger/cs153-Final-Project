@@ -58,16 +58,3 @@ def process_shapes(json_path):
             for c in range(y, y + h):
                 table.iat[r, c] = text
     return table
-
-item_name = '140129519' # Example item name
-item_name = '6kpiuhyg'
-
-base_path = '20647788/TabRecSet/'
-img_path = f'{base_path}image/english_all-line/{item_name}.jpg'
-json_path = f'{base_path}TSR_TCR_annotation/{item_name}.json'
-
-table = process_shapes(json_path)
-
-# Print the table and save it as csv
-print(table)
-table.to_csv('table.csv')

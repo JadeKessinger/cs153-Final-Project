@@ -1,0 +1,1861 @@
+{
+    "version": "4.5.9",
+    "flags": {},
+    "lineColor": null,
+    "fillColor": null,
+    "imageData": null,
+    "checked": true,
+    "imageHeight": 402,
+    "imageWidth": 704,
+    "imagePath": "6kpiuhyg.jpg",
+    "shapes": [
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    477,
+                    48
+                ],
+                [
+                    637,
+                    58
+                ],
+                [
+                    636,
+                    77
+                ],
+                [
+                    476,
+                    67
+                ]
+            ],
+            "label": "1-1-1-1-Anderandly Appendix C\" to Chapher IY"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    337,
+                    53
+                ],
+                [
+                    636,
+                    70
+                ],
+                [
+                    634,
+                    83
+                ],
+                [
+                    336,
+                    68
+                ]
+            ],
+            "label": "1-2-1-1-(Refers to Para 63 to Chapter Wand Para 2it) of Appendix C' to Chapter M)"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    191,
+                    81
+                ],
+                [
+                    523,
+                    93
+                ],
+                [
+                    521,
+                    106
+                ],
+                [
+                    190,
+                    97
+                ]
+            ],
+            "label": "1-3-1-1-FINANCIAL ASSESSMENT PARAMETERS FOR SHIPBUIL DING PROJECTS"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    254,
+                    116
+                ],
+                [
+                    294,
+                    116
+                ],
+                [
+                    294,
+                    132
+                ],
+                [
+                    254,
+                    132
+                ]
+            ],
+            "label": "1-4-1-1-CATF1"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    323,
+                    118
+                ],
+                [
+                    365,
+                    118
+                ],
+                [
+                    365,
+                    132
+                ],
+                [
+                    323,
+                    132
+                ]
+            ],
+            "label": "1-5-1-1-CATF2"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    393,
+                    118
+                ],
+                [
+                    432,
+                    118
+                ],
+                [
+                    432,
+                    132
+                ],
+                [
+                    393,
+                    132
+                ]
+            ],
+            "label": "1-6-1-1-CATF3"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    460,
+                    118
+                ],
+                [
+                    495,
+                    120
+                ],
+                [
+                    494,
+                    134
+                ],
+                [
+                    459,
+                    132
+                ]
+            ],
+            "label": "1-7-1-1-CATF4"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    512,
+                    123
+                ],
+                [
+                    541,
+                    127
+                ],
+                [
+                    539,
+                    140
+                ],
+                [
+                    510,
+                    137
+                ]
+            ],
+            "label": "1-8-1-1-CATF5"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    310,
+                    136
+                ],
+                [
+                    504,
+                    138
+                ],
+                [
+                    504,
+                    153
+                ],
+                [
+                    310,
+                    151
+                ]
+            ],
+            "label": "1-9-1-1-Outflow required for the Project per Years"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    56,
+                    140
+                ],
+                [
+                    233,
+                    140
+                ],
+                [
+                    233,
+                    155
+                ],
+                [
+                    56,
+                    155
+                ]
+            ],
+            "label": "1-10-1-1-Eiigibility and Qualification Critoria"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    265,
+                    147
+                ],
+                [
+                    534,
+                    151
+                ],
+                [
+                    534,
+                    167
+                ],
+                [
+                    264,
+                    163
+                ]
+            ],
+            "label": "1-11-1-1-Estimated Value of Contract/Number of Years prescribed tor"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    352,
+                    163
+                ],
+                [
+                    473,
+                    163
+                ],
+                [
+                    473,
+                    176
+                ],
+                [
+                    352,
+                    176
+                ]
+            ],
+            "label": "1-12-1-1-completion of the Project"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    560,
+                    163
+                ],
+                [
+                    630,
+                    163
+                ],
+                [
+                    630,
+                    176
+                ],
+                [
+                    560,
+                    176
+                ]
+            ],
+            "label": "1-13-1-1-Documentation"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    574,
+                    176
+                ],
+                [
+                    619,
+                    176
+                ],
+                [
+                    619,
+                    188
+                ],
+                [
+                    574,
+                    188
+                ]
+            ],
+            "label": "1-14-1-1-Required"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    315,
+                    181
+                ],
+                [
+                    380,
+                    181
+                ],
+                [
+                    380,
+                    194
+                ],
+                [
+                    315,
+                    194
+                ]
+            ],
+            "label": "1-15-1-1-Greater than"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    449,
+                    181
+                ],
+                [
+                    504,
+                    183
+                ],
+                [
+                    504,
+                    196
+                ],
+                [
+                    449,
+                    194
+                ]
+            ],
+            "label": "1-16-1-1-Greater than"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    557,
+                    187
+                ],
+                [
+                    634,
+                    184
+                ],
+                [
+                    635,
+                    200
+                ],
+                [
+                    558,
+                    203
+                ]
+            ],
+            "label": "1-17-1-1-(To be submitted"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    379,
+                    188
+                ],
+                [
+                    444,
+                    188
+                ],
+                [
+                    444,
+                    201
+                ],
+                [
+                    379,
+                    201
+                ]
+            ],
+            "label": "1-18-1-1-Greater than"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    317,
+                    194
+                ],
+                [
+                    378,
+                    194
+                ],
+                [
+                    378,
+                    207
+                ],
+                [
+                    317,
+                    207
+                ]
+            ],
+            "label": "1-19-1-1-Rs 1,000 Cr"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    459,
+                    194
+                ],
+                [
+                    498,
+                    195
+                ],
+                [
+                    497,
+                    208
+                ],
+                [
+                    458,
+                    206
+                ]
+            ],
+            "label": "1-20-1-1-Rs 25 Cr"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    564,
+                    201
+                ],
+                [
+                    630,
+                    198
+                ],
+                [
+                    631,
+                    212
+                ],
+                [
+                    564,
+                    215
+                ]
+            ],
+            "label": "1-21-1-1-along with the"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    382,
+                    201
+                ],
+                [
+                    443,
+                    201
+                ],
+                [
+                    443,
+                    214
+                ],
+                [
+                    382,
+                    214
+                ]
+            ],
+            "label": "1-22-1-1-Rs 75Cr and"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    509,
+                    202
+                ],
+                [
+                    552,
+                    202
+                ],
+                [
+                    552,
+                    215
+                ],
+                [
+                    509,
+                    215
+                ]
+            ],
+            "label": "1-23-1-1-Lessar than"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    245,
+                    207
+                ],
+                [
+                    303,
+                    205
+                ],
+                [
+                    304,
+                    221
+                ],
+                [
+                    245,
+                    222
+                ]
+            ],
+            "label": "1-24-1-1-Rs 3000 Cr"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    458,
+                    207
+                ],
+                [
+                    498,
+                    207
+                ],
+                [
+                    498,
+                    221
+                ],
+                [
+                    458,
+                    221
+                ]
+            ],
+            "label": "1-25-1-1-and less"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    313,
+                    206
+                ],
+                [
+                    382,
+                    208
+                ],
+                [
+                    382,
+                    224
+                ],
+                [
+                    312,
+                    223
+                ]
+            ],
+            "label": "1-26-1-1-and less than"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    587,
+                    211
+                ],
+                [
+                    610,
+                    211
+                ],
+                [
+                    610,
+                    223
+                ],
+                [
+                    587,
+                    223
+                ]
+            ],
+            "label": "1-27-1-1-bid)"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    383,
+                    214
+                ],
+                [
+                    443,
+                    214
+                ],
+                [
+                    443,
+                    228
+                ],
+                [
+                    383,
+                    228
+                ]
+            ],
+            "label": "1-28-1-1-less than or"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    511,
+                    215
+                ],
+                [
+                    551,
+                    215
+                ],
+                [
+                    551,
+                    228
+                ],
+                [
+                    511,
+                    228
+                ]
+            ],
+            "label": "1-29-1-1-or aqual to"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    159,
+                    214
+                ],
+                [
+                    229,
+                    214
+                ],
+                [
+                    229,
+                    230
+                ],
+                [
+                    159,
+                    230
+                ]
+            ],
+            "label": "1-30-1-1-Requirement"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    52,
+                    214
+                ],
+                [
+                    73,
+                    214
+                ],
+                [
+                    73,
+                    231
+                ],
+                [
+                    52,
+                    231
+                ]
+            ],
+            "label": "1-31-1-1-SI"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    73,
+                    215
+                ],
+                [
+                    133,
+                    215
+                ],
+                [
+                    133,
+                    230
+                ],
+                [
+                    73,
+                    230
+                ]
+            ],
+            "label": "1-32-1-1-Subject"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    461,
+                    221
+                ],
+                [
+                    496,
+                    221
+                ],
+                [
+                    496,
+                    232
+                ],
+                [
+                    461,
+                    232
+                ]
+            ],
+            "label": "1-33-1-1-than or"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    323,
+                    222
+                ],
+                [
+                    373,
+                    222
+                ],
+                [
+                    373,
+                    234
+                ],
+                [
+                    323,
+                    234
+                ]
+            ],
+            "label": "1-34-1-1-or equal"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    245,
+                    222
+                ],
+                [
+                    304,
+                    222
+                ],
+                [
+                    304,
+                    236
+                ],
+                [
+                    245,
+                    236
+                ]
+            ],
+            "label": "1-35-1-1-and above"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    513,
+                    227
+                ],
+                [
+                    547,
+                    227
+                ],
+                [
+                    547,
+                    239
+                ],
+                [
+                    513,
+                    239
+                ]
+            ],
+            "label": "1-36-1-1-Ra25Cr"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    389,
+                    228
+                ],
+                [
+                    435,
+                    226
+                ],
+                [
+                    435,
+                    239
+                ],
+                [
+                    390,
+                    240
+                ]
+            ],
+            "label": "1-37-1-1-equal to"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    453,
+                    233
+                ],
+                [
+                    504,
+                    231
+                ],
+                [
+                    504,
+                    246
+                ],
+                [
+                    453,
+                    248
+                ]
+            ],
+            "label": "1-38-1-1-equal to Ra"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    315,
+                    232
+                ],
+                [
+                    375,
+                    232
+                ],
+                [
+                    375,
+                    248
+                ],
+                [
+                    315,
+                    248
+                ]
+            ],
+            "label": "1-39-1-1-to Rs 3,000"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    384,
+                    237
+                ],
+                [
+                    443,
+                    237
+                ],
+                [
+                    443,
+                    252
+                ],
+                [
+                    384,
+                    252
+                ]
+            ],
+            "label": "1-40-1-1-Rs 1,000 Cr"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    465,
+                    245
+                ],
+                [
+                    494,
+                    245
+                ],
+                [
+                    494,
+                    257
+                ],
+                [
+                    465,
+                    257
+                ]
+            ],
+            "label": "1-41-1-1-75 Cr"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    333,
+                    247
+                ],
+                [
+                    353,
+                    247
+                ],
+                [
+                    353,
+                    260
+                ],
+                [
+                    333,
+                    260
+                ]
+            ],
+            "label": "1-42-1-1-Cr"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    607,
+                    260
+                ],
+                [
+                    639,
+                    260
+                ],
+                [
+                    639,
+                    273
+                ],
+                [
+                    607,
+                    273
+                ]
+            ],
+            "label": "1-43-1-1-Rating"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    559,
+                    261
+                ],
+                [
+                    593,
+                    261
+                ],
+                [
+                    593,
+                    273
+                ],
+                [
+                    559,
+                    273
+                ]
+            ],
+            "label": "1-44-1-1-Credit"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    449,
+                    264
+                ],
+                [
+                    509,
+                    262
+                ],
+                [
+                    509,
+                    276
+                ],
+                [
+                    450,
+                    278
+                ]
+            ],
+            "label": "1-45-1-1-Minimum 88"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    310,
+                    265
+                ],
+                [
+                    362,
+                    265
+                ],
+                [
+                    362,
+                    278
+                ],
+                [
+                    310,
+                    278
+                ]
+            ],
+            "label": "1-46-1-1-Minimum"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    363,
+                    265
+                ],
+                [
+                    380,
+                    265
+                ],
+                [
+                    380,
+                    278
+                ],
+                [
+                    363,
+                    278
+                ]
+            ],
+            "label": "1-47-1-1-A"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    292,
+                    265
+                ],
+                [
+                    310,
+                    265
+                ],
+                [
+                    310,
+                    279
+                ],
+                [
+                    292,
+                    279
+                ]
+            ],
+            "label": "1-48-1-1-A"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    238,
+                    266
+                ],
+                [
+                    292,
+                    266
+                ],
+                [
+                    292,
+                    279
+                ],
+                [
+                    238,
+                    279
+                ]
+            ],
+            "label": "1-49-1-1-Minimum"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    380,
+                    265
+                ],
+                [
+                    427,
+                    265
+                ],
+                [
+                    427,
+                    280
+                ],
+                [
+                    380,
+                    280
+                ]
+            ],
+            "label": "1-50-1-1-Minimum"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    150,
+                    266
+                ],
+                [
+                    185,
+                    266
+                ],
+                [
+                    185,
+                    282
+                ],
+                [
+                    150,
+                    282
+                ]
+            ],
+            "label": "1-51-1-1-Credit"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    201,
+                    266
+                ],
+                [
+                    237,
+                    266
+                ],
+                [
+                    237,
+                    282
+                ],
+                [
+                    201,
+                    282
+                ]
+            ],
+            "label": "1-52-1-1-Rating"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    52,
+                    267
+                ],
+                [
+                    73,
+                    267
+                ],
+                [
+                    73,
+                    282
+                ],
+                [
+                    52,
+                    282
+                ]
+            ],
+            "label": "1-53-1-1-1."
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    72,
+                    266
+                ],
+                [
+                    146,
+                    268
+                ],
+                [
+                    146,
+                    283
+                ],
+                [
+                    72,
+                    282
+                ]
+            ],
+            "label": "1-54-1-1-Credit Rating"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    615,
+                    273
+                ],
+                [
+                    639,
+                    273
+                ],
+                [
+                    639,
+                    284
+                ],
+                [
+                    615,
+                    284
+                ]
+            ],
+            "label": "1-55-1-1-fram"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    560,
+                    273
+                ],
+                [
+                    611,
+                    273
+                ],
+                [
+                    611,
+                    287
+                ],
+                [
+                    560,
+                    287
+                ]
+            ],
+            "label": "1-56-1-1-Certificate"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    508,
+                    275
+                ],
+                [
+                    555,
+                    274
+                ],
+                [
+                    555,
+                    287
+                ],
+                [
+                    508,
+                    288
+                ]
+            ],
+            "label": "1-57-1-1-or equalent"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    449,
+                    278
+                ],
+                [
+                    507,
+                    276
+                ],
+                [
+                    507,
+                    289
+                ],
+                [
+                    450,
+                    291
+                ]
+            ],
+            "label": "1-58-1-1-or equivalent."
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    310,
+                    277
+                ],
+                [
+                    378,
+                    277
+                ],
+                [
+                    378,
+                    292
+                ],
+                [
+                    310,
+                    292
+                ]
+            ],
+            "label": "1-59-1-1-or equivalent."
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    382,
+                    278
+                ],
+                [
+                    408,
+                    278
+                ],
+                [
+                    408,
+                    291
+                ],
+                [
+                    382,
+                    291
+                ]
+            ],
+            "label": "1-60-1-1-888"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    431,
+                    277
+                ],
+                [
+                    449,
+                    277
+                ],
+                [
+                    449,
+                    293
+                ],
+                [
+                    431,
+                    293
+                ]
+            ],
+            "label": "1-61-1-1-of"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    214,
+                    280
+                ],
+                [
+                    238,
+                    280
+                ],
+                [
+                    238,
+                    293
+                ],
+                [
+                    214,
+                    293
+                ]
+            ],
+            "label": "1-62-1-1-RBI"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    239,
+                    281
+                ],
+                [
+                    307,
+                    277
+                ],
+                [
+                    308,
+                    292
+                ],
+                [
+                    240,
+                    296
+                ]
+            ],
+            "label": "1-63-1-1-orequivalent."
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    150,
+                    280
+                ],
+                [
+                    177,
+                    280
+                ],
+                [
+                    177,
+                    295
+                ],
+                [
+                    150,
+                    295
+                ]
+            ],
+            "label": "1-64-1-1-from"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    597,
+                    285
+                ],
+                [
+                    640,
+                    282
+                ],
+                [
+                    641,
+                    296
+                ],
+                [
+                    598,
+                    299
+                ]
+            ],
+            "label": "1-65-1-1-approved"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    561,
+                    286
+                ],
+                [
+                    582,
+                    286
+                ],
+                [
+                    582,
+                    297
+                ],
+                [
+                    561,
+                    297
+                ]
+            ],
+            "label": "1-66-1-1-RBI"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    381,
+                    290
+                ],
+                [
+                    434,
+                    288
+                ],
+                [
+                    434,
+                    304
+                ],
+                [
+                    382,
+                    306
+                ]
+            ],
+            "label": "1-67-1-1-equivalent."
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    150,
+                    292
+                ],
+                [
+                    237,
+                    292
+                ],
+                [
+                    237,
+                    308
+                ],
+                [
+                    150,
+                    308
+                ]
+            ],
+            "label": "1-68-1-1-approved Credit"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    561,
+                    297
+                ],
+                [
+                    606,
+                    297
+                ],
+                [
+                    606,
+                    310
+                ],
+                [
+                    561,
+                    310
+                ]
+            ],
+            "label": "1-69-1-1-Agencies"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    150,
+                    308
+                ],
+                [
+                    236,
+                    308
+                ],
+                [
+                    236,
+                    322
+                ],
+                [
+                    150,
+                    322
+                ]
+            ],
+            "label": "1-70-1-1-Rating Agencies"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    150,
+                    322
+                ],
+                [
+                    236,
+                    321
+                ],
+                [
+                    236,
+                    334
+                ],
+                [
+                    150,
+                    336
+                ]
+            ],
+            "label": "1-71-1-1-at time of bid"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    150,
+                    334
+                ],
+                [
+                    236,
+                    334
+                ],
+                [
+                    236,
+                    348
+                ],
+                [
+                    150,
+                    348
+                ]
+            ],
+            "label": "1-72-1-1-submission fil"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    150,
+                    348
+                ],
+                [
+                    236,
+                    348
+                ],
+                [
+                    236,
+                    362
+                ],
+                [
+                    150,
+                    362
+                ]
+            ],
+            "label": "1-73-1-1-declaration of L1."
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    150,
+                    362
+                ],
+                [
+                    235,
+                    362
+                ],
+                [
+                    235,
+                    377
+                ],
+                [
+                    150,
+                    377
+                ]
+            ],
+            "label": "1-74-1-1-Latest Credit"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    212,
+                    375
+                ],
+                [
+                    235,
+                    375
+                ],
+                [
+                    235,
+                    388
+                ],
+                [
+                    212,
+                    388
+                ]
+            ],
+            "label": "1-75-1-1-be"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    151,
+                    377
+                ],
+                [
+                    211,
+                    375
+                ],
+                [
+                    211,
+                    389
+                ],
+                [
+                    151,
+                    391
+                ]
+            ],
+            "label": "1-76-1-1-rating to"
+        },
+        {
+            "shape_type": "polygon",
+            "flages": {},
+            "group_id": 0,
+            "points": [
+                [
+                    151,
+                    388
+                ],
+                [
+                    235,
+                    388
+                ],
+                [
+                    235,
+                    400
+                ],
+                [
+                    151,
+                    400
+                ]
+            ],
+            "label": "1-77-1-1-submitted by the"
+        }
+    ]
+}
